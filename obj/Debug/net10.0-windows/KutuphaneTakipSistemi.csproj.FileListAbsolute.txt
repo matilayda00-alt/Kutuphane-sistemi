@@ -1,0 +1,16 @@
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\bin\Debug\net10.0-windows\KutuphaneTakipSistemi.exe
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\bin\Debug\net10.0-windows\KutuphaneTakipSistemi.deps.json
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\bin\Debug\net10.0-windows\KutuphaneTakipSistemi.runtimeconfig.json
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\bin\Debug\net10.0-windows\KutuphaneTakipSistemi.dll
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\bin\Debug\net10.0-windows\KutuphaneTakipSistemi.pdb
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\obj\Debug\net10.0-windows\KutuphaneTakipSistemi.Form1.resources
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\obj\Debug\net10.0-windows\KutuphaneTakipSistemi.csproj.GenerateResource.cache
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\obj\Debug\net10.0-windows\KutuphaneTakipSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\obj\Debug\net10.0-windows\KutuphaneTakipSistemi.AssemblyInfoInputs.cache
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\obj\Debug\net10.0-windows\KutuphaneTakipSistemi.AssemblyInfo.cs
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\obj\Debug\net10.0-windows\KutuphaneTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\obj\Debug\net10.0-windows\KutuphaneTakipSistemi.dll
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\obj\Debug\net10.0-windows\refint\KutuphaneTakipSistemi.dll
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\obj\Debug\net10.0-windows\KutuphaneTakipSistemi.pdb
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\obj\Debug\net10.0-windows\KutuphaneTakipSistemi.genruntimeconfig.cache
+C:\Users\Tek\Desktop\KutuphaneTakipSistemi\obj\Debug\net10.0-windows\ref\KutuphaneTakipSistemi.dll
